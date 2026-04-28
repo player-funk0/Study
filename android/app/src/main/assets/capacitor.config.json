@@ -1,0 +1,11 @@
+{
+	"appId": "com.studyguard.app",
+	"appName": "Study Guard",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	},
+	"android": {
+		"backgroundColor": "#0f172a"
+	}
+}
